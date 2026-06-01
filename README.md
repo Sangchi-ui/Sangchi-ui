@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Graduate;C%2B%2B+%7C+Python+%7C+Java+Developer;AI+%26+Machine+Learning+Explorer;Full+Stack+Learner+%7C+DSA+Practitioner;Building+Solutions+That+Matter" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7&style=for-the-badge&abbreviated=true" />
+  <img src="https://komarev.com/ghpvc/?username=Sangchi-ui&label=Profile+Views&color=36BCF7&style=for-the-badge&abbreviated=true" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/followers/Sangchi-ui?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0D1117" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-36BCF7?style=for-the-badge&labelColor=0D1117" />
 </p>
@@ -97,13 +97,13 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0aec0&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangchi-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0aec0&rank_icon=github" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a0aec0&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangchi-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a0aec0&langs_count=8" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Sangchi-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
 </div>
 
 ---
@@ -111,7 +111,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sangchi-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
 
 ---
@@ -119,7 +119,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sangchi-ui&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
 </div>
 
 ---
