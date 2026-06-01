@@ -78,22 +78,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<div align="center">
-
-| 🔥 Priority | 📌 Area | 📈 Progress |
-|:-----------:|:-------:|:-----------:|
-| High | Data Structures & Algorithms | `██████████░` 90% |
-| High | Artificial Intelligence & ML | `███████░░░░` 60% |
-| Medium | Full Stack Development | `████░░░░░░░` 40% |
-| Medium | System Design | `████░░░░░░░` 35% |
-| Ongoing | Open Source Contributions | `██░░░░░░░░░` 20% |
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -111,15 +95,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Sangchi-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sangchi-ui&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
+  <img src="https://github-trophies.vercel.app/?username=Sangchi-ui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
 
 ---
