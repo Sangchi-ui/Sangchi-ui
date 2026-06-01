@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I'm Jeevan<br><br><br>🎓 Computer Engineering Graduate  <br><br>💻 Passionate about Software Development, DSA, and AI  <br><br>🚀 Currently learning Data Structures & Algorithms using C++  <br><br>🌱 Exploring Artificial Intelligence, Machine Learning, and Modern Technologies  <br><br>🎥 Skilled in Video Editing, Photoshop, and Content Creation  <br><br>🔧 Building projects to improve problem-solving and development skills
+ 👋 Hi, I'm Jeevan<br><br>🎓 Computer Engineering Graduate  <br>💻 Passionate about Software Development, DSA, and AI  <br>🚀 Currently learning Data Structures & Algorithms using C++  <br>🌱 Exploring Artificial Intelligence, Machine Learning, and Modern Technologies  <br>🎥 Skilled in Video Editing, Photoshop, and Content Creation  <br>🔧 Building projects to improve problem-solving and development skills
 
 
 ## 🌐 Socials:
