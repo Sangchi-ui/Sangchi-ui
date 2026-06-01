@@ -1,149 +1,130 @@
 <div align="center">
-
-# 👨‍💻 Jeevan
-
-### Software Developer • AI Enthusiast • DSA Learner
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Graduate;C%2B%2B+%7C+Python+Developer;AI+%26+Machine+Learning+Explorer;Building+Projects+That+Matter;Always+Learning+Something+New" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=200&section=header&text=Jeevan%20Vakada&fontSize=52&fontColor=36BCF7&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20DSA%20Learner&descSize=18&descAlignY=58&descColor=a0aec0" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Computer+Engineering+Graduate;C%2B%2B+%7C+Python+%7C+Java+Developer;AI+%26+Machine+Learning+Explorer;Full+Stack+Learner+%7C+DSA+Practitioner;Building+Solutions+That+Matter" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=36BCF7&style=for-the-badge&abbreviated=true" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-36BCF7?style=for-the-badge&labelColor=0D1117" />
 </p>
-
 </div>
-
 ---
-
-## 🚀 About Me
-
+ 
+## 👨‍💻 About Me
+ 
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 ```yaml
-Name: Jeevan
-Education: Computer Engineering Graduate
-Focus: Data Structures & Algorithms
-Learning: Artificial Intelligence & Machine Learning
-Languages: C++, Python, Java
-Passion: Building useful software solutions
-Goal: Become a world-class Software Engineer
+👤  Name      : Jeevan Vakada
+🎓  Degree    : Computer Engineering Graduate
+📍  Location  : India
+💼  Status    : Open to Work
+ 
+🔭  Currently : Mastering DSA & System Design
+🤖  Learning  : Artificial Intelligence & ML
+🌐  Building  : Full Stack Web Projects
+ 
+🛠️  Languages : C++, Python, Java
+💡  Passion   : Clean code & scalable systems
+🎯  Goal      : World-class Software Engineer
 ```
-
+ 
+<br clear="right"/>
 ---
-
-## 🛠️ Tech Arsenal
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,nodejs" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
-### Creative Suite
-
-<p>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=AdobePhotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white" />
-<img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white" />
-</p>
-
----
-
-## 🎯 Current Mission
-
-```text
-📚 Mastering Data Structures & Algorithms
-🤖 Exploring Artificial Intelligence
-🌐 Learning Full Stack Development
-🚀 Building Real-World Projects
-🏆 Preparing for Software Engineering Roles
-```
-
----
-
-## 📈 GitHub Analytics
-
+ 
+## 🛠️ Technology Stack
+ 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
+### ⚡ Core Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+ 
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ 
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+### 🧰 Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
+### 🎨 Creative Suite
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+ 
 </div>
-
 ---
-
-## 🏆 Achievements
-
+ 
+## 🎯 Current Focus
+ 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
+| 🔥 Priority | 📌 Area | 📈 Progress |
+|:-----------:|:-------:|:-----------:|
+| High | Data Structures & Algorithms | `██████████░` 90% |
+| High | Artificial Intelligence & ML | `███████░░░░` 60% |
+| Medium | Full Stack Development | `████░░░░░░░` 40% |
+| Medium | System Design | `████░░░░░░░` 35% |
+| Ongoing | Open Source Contributions | `██░░░░░░░░░` 20% |
+ 
 </div>
-
 ---
-
-## 📊 Contribution Activity
-
+ 
+## 📊 GitHub Analytics
+ 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0aec0&rank_icon=github" />
+  &nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a0aec0&langs_count=8" />
 </div>
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
+</div>
 ---
-
-## 🌐 Connect With Me
-
+ 
+## 🏆 GitHub Trophies
+ 
 <div align="center">
-
-<a href="https://linkedin.com/in/vakada-jeevan">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/mr.cool._boy">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:vakadajeevan123456789@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://x.com/Jeevan_coder">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </div>
-
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+</div>
 ---
-
+ 
+## 📈 Contribution Graph
+ 
 <div align="center">
-
-### 💡 Philosophy
-
-> "Code. Learn. Build. Repeat."
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" />
 </div>
-
+---
+ 
+## 🤝 Connect With Me
+ 
 <div align="center">
-
-⭐ Thanks for visiting my profile!
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vakada%20Jeevan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vakada-jeevan)
+[![Gmail](https://img.shields.io/badge/Gmail-vakadajeevan123456789-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vakadajeevan123456789@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-@Jeevan__coder-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jeevan_coder)
+[![Instagram](https://img.shields.io/badge/Instagram-@mr.cool.__boy-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr.cool._boy)
+ 
 </div>
+---
+ 
+<div align="center">
+### 💬 Dev Philosophy
+ 
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+> *"First, solve the problem. Then, write the code."* — John Johnson
+ 
+</div>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐%20Star%20something%20if%20you%20like%20it&fontSize=14&fontColor=a0aec0&fontAlignY=65" />
+</div>
+ 
