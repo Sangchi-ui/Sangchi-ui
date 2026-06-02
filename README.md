@@ -78,20 +78,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sangchi-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=a0aec0&rank_icon=github" />
-  &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sangchi-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=a0aec0&langs_count=8" />
-</div>
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Sangchi-ui&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -126,9 +112,7 @@
 
 ## 💬 Dev Philosophy
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+ *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
 
